@@ -57,8 +57,8 @@ plt.show()
 ### Diffrent *x*-axis reference
 
 <div style="display: flex;">
-  <img src="Figure_1.png" alt="Image 1" style="width: 50%;">
-  <img src="Figure_2.png" alt="Image 2" style="width: 50%;">
+  <img src="fig/Figure_1.png" alt="Image 1" style="width: 50%;">
+  <img src="fig/Figure_2.png" alt="Image 2" style="width: 50%;">
 </div>
 
 
@@ -124,5 +124,5 @@ plt.show()
 ## Figure
 
 <div style="display: flex; justify-content: center;">
-  <img src="Figure_3.png" alt="Image 1" style="width: 50%;">
+  <img src="fig/Figure_3.png" alt="Image 1" style="width: 50%;">
 </div>
